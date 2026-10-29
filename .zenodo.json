@@ -1,0 +1,15 @@
+{
+  "title": "pkbm-4c-plssem: PLS-SEM analysis code for \"Tutor competence as the pathway from learning service quality to 4C skills: Evidence from urban, coastal, and highland community learning centers in Indonesia\"",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "Open-source R (seminr) script that reproduces the partial least squares structural equation modeling (PLS-SEM) analysis reported in the F1000Research article: measurement model assessment, full collinearity VIF, structural model (R2, f2, Q2predict), bootstrapping with 5,000 resamples, and mediation analysis. Includes a simulated example dataset; the real data are available from the corresponding author under a data-use agreement.",
+  "creators": [
+    {"name": "Ansar, Ahlun", "affiliation": "Universitas Negeri Makassar"},
+    {"name": "Hidayatullah, Fauzan", "affiliation": "Universitas Negeri Makassar"},
+    {"name": "Puspitasari, Savira Widya", "affiliation": "Universitas Negeri Makassar", "orcid": "0009-0008-0455-658X"},
+    {"name": "Latang", "affiliation": "Universitas Negeri Makassar"},
+    {"name": "Gaffar, Fatmawati", "affiliation": "Universitas Negeri Makassar"}
+  ],
+  "keywords": ["PLS-SEM", "seminr", "R", "community learning centers", "PKBM", "tutor competence", "4C skills"]
+}

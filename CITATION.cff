@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "pkbm-4c-plssem: PLS-SEM analysis code for 'Tutor competence as the pathway from learning service quality to 4C skills'"
+version: 1.0.0
+date-released: 2026-10-29
+license: MIT
+authors:
+  - family-names: Ansar
+    given-names: Ahlun
+    affiliation: Universitas Negeri Makassar
+  - family-names: Hidayatullah
+    given-names: Fauzan
+    affiliation: Universitas Negeri Makassar
+  - family-names: Puspitasari
+    given-names: Savira Widya
+    affiliation: Universitas Negeri Makassar
+    orcid: "https://orcid.org/0009-0008-0455-658X"
+  - name: Latang
+    affiliation: Universitas Negeri Makassar
+  - family-names: Gaffar
+    given-names: Fatmawati
+    affiliation: Universitas Negeri Makassar
+keywords: [PLS-SEM, seminr, community learning centers, PKBM, tutor competence, 4C skills]
